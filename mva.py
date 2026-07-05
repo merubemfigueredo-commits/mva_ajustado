@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 from decimal import Decimal, getcontext
 
 getcontext().prec = 4
